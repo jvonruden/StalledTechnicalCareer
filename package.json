@@ -1,0 +1,28 @@
+{
+  "name": "DarkMatterStudent",
+  "version": "1.0.0",
+  "description": "Are You a Dark Matter IT Student - How To Avoid Stalled Technical Career ==",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvonruden/DarkMatterStudent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvonruden/DarkMatterStudent/issues"
+  },
+  "homepage": "https://github.com/jvonruden/DarkMatterStudent#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
